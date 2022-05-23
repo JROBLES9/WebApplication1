@@ -21,7 +21,7 @@ namespace WebApplication1
             {
                 //Si el usuario no tiene permitido entrar a esta página, lo redirigimos a una página en la que si tenga permiso
 
-                Response.Redirect("Autorizacion", true);
+                Response.Redirect("Autorizacionf", true);//comentario de cambi0
             }
         }
     }
