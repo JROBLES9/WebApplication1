@@ -15,7 +15,8 @@
        <b>No tiene acceso a esta pagina</b></p>
         <div style="margin-left: 560px">
             <asp:Button ID="ButtonRegresar" runat="server" OnClick="ButtonRegresar_Click" Text="Regresar al INICIO" />
-        </div>
+            <br />
+            lkñsdajksjdflkjsfd</div>
     </form>
     </body>
 </html>
